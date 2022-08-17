@@ -1,16 +1,9 @@
-# student_managment_getx
+STUDENT MANAGEMENT APP
 
-A new Flutter project.
+An app for storing details about students to manage them easily and edit their data in just a button click. This app allows the user to add details of unlimited number of students and store them in their device storage.
 
-## Getting Started
+FEATURES AND TECHNOLOGIES USED:-
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Display student details with image.
+Provider for state management.
+Hive for database.
